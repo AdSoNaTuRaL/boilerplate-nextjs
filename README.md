@@ -1,7 +1,15 @@
 ![React Advanced](https://raw.githubusercontent.com/AdSoNaTuRaL/boilerplate-nextjs/main/public/img/logo-gh.svg)
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used.
-![ci](https://github.com/AdSoNaTuRaL/boilerplate-nextjs/workflows/ci/badge.svg)
+<div align="center">
+  
+  
+  This is a [Next.js](https://nextjs.org/) boilerplate.
+
+
+  ![ci](https://github.com/AdSoNaTuRaL/boilerplate-nextjs/workflows/ci/badge.svg)
+  
+</div>
+
 ## What is inside?
 
 This project uses lot of technologies such as:
