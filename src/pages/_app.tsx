@@ -15,7 +15,7 @@ function App({ Component, pageProps }: AppProps) {
           content="A simple project starter to work with Typescript, React, NextJS and Styled Components"
         />
       </Head>
-      <GlobalStyles />z
+      <GlobalStyles />
       <Component {...pageProps} />
     </>
   )
