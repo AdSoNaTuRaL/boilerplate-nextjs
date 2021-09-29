@@ -1,7 +1,8 @@
-![React Advanced](https://raw.githubusercontent.com/AdSoNaTuRaL/boilerplate-nextjs/main/public/img/logo-gh.svg)
+
 
 <div align="center">
   
+  ![React Advanced](https://raw.githubusercontent.com/AdSoNaTuRaL/boilerplate-nextjs/main/public/img/icon-192.png)
   
   This is a [Next.js](https://nextjs.org/) boilerplate.
 
