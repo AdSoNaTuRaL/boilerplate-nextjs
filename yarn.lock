@@ -1972,7 +1972,7 @@
     global "^4.4.0"
     regenerator-runtime "^0.13.7"
 
-"@storybook/api@6.3.10", "@storybook/api@^6.3.0":
+"@storybook/api@6.3.10":
   version "6.3.10"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-6.3.10.tgz#d6cd7d32841c9b6a9c2104016649b510190622ac"
   integrity sha512-7fB6q718UWvgFI+ZqEU0QpXr5cHHli85bTq/w7kSz1VUWjV7vVqtxE3RTbIjMbKHkIVNkVUbZDeDi+r2soK9Tw==
@@ -1997,8 +1997,8 @@
     telejson "^5.3.2"
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
-
-"@storybook/api@6.3.9":
+    
+"@storybook/api@6.3.9", "@storybook/api@^6.3.0":
   version "6.3.9"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-6.3.9.tgz#f36c8f01cac602c67b8f22b144e8bd6478039abb"
   integrity sha512-lwen3jcY4YbnD8spAZrmXcToed/pwad9QpxkG0GNf6ctcOumN6HIK93fKeJ0vvPYc3v/uq1qKeLyTZ3NrgHQRg==
@@ -2828,18 +2828,18 @@
     react-docgen-typescript "^2.0.0"
     tslib "^2.0.0"
 
-"@storybook/react@^6.3.9":
-  version "6.3.9"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.3.9.tgz#3d93a3606a6a9ae1ece8d0d56f382a9c15df5254"
-  integrity sha512-LYlAURnKvFsf3CZG2CDvQwvlF/vy5VsKuNiNmyTk6zggmkbitXrwkuT7KoElYrz4REkyhd/HA6Uw6lfkPsyuHA==
+"@storybook/react@^6.3.10":
+  version "6.3.10"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.3.10.tgz#af065ea32a051244065920df4e86029f65dba2c3"
+  integrity sha512-UNznbvkpxrBd3yVcptcednjhdoEWSz9wLE6yuTbrW5/E9lv4wuHmxFA42GHKVTNy8Pa7qqPgW5t1XfWivNwOOg==
   dependencies:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.10"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.4.3"
-    "@storybook/addons" "6.3.9"
-    "@storybook/core" "6.3.9"
-    "@storybook/core-common" "6.3.9"
-    "@storybook/node-logger" "6.3.9"
+    "@storybook/addons" "6.3.10"
+    "@storybook/core" "6.3.10"
+    "@storybook/core-common" "6.3.10"
+    "@storybook/node-logger" "6.3.10"
     "@storybook/react-docgen-typescript-plugin" "1.0.2-canary.253f8c1.0"
     "@storybook/semver" "^7.3.2"
     "@types/webpack-env" "^1.16.0"
