@@ -2900,10 +2900,10 @@
     npmlog "^5.0.1"
     pretty-hrtime "^1.0.3"
 
-"@storybook/postinstall@6.4.15":
-  version "6.4.15"
-  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.4.15.tgz#e649fe932513d1bcc49a88f84d1f014c45facb6a"
-  integrity sha512-JQUxATNtRKv0aIwW/+mc+ieZeK0Zffj5Op/s9oOafZNQHWEZwvzHpB43Ba30okZr4nqCYcrPRrXoAFrpplsDbw==
+"@storybook/postinstall@6.4.14":
+  version "6.4.14"
+  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.4.14.tgz#e8f7925529d4955783660f409deee1e907897b2b"
+  integrity sha512-nLHV+BdDKFAZWU1CA/o3zRCNT3+tVWesERqkO9kJLURwqHkfU1yyv5WNILyUsvlwwJCFdDOEdXupC1RR7E6Gkg==
   dependencies:
     core-js "^3.8.2"
 
@@ -2964,22 +2964,22 @@
     react-docgen-typescript "^2.0.0"
     tslib "^2.0.0"
 
-"@storybook/react@^6.4.14":
-  version "6.4.14"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.4.14.tgz#7be241ecfa412312681bb54c82327764d70ffb70"
-  integrity sha512-wlPjE5Xcarc5NTgnHchvGE56EVYioAyRZoYvb/YyiCX1+A8sQkwS2qTTH8e/pdG539A4NMrciMosvjvEPZcEvg==
+"@storybook/react@^6.4.15":
+  version "6.4.15"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.4.15.tgz#2475ff67f7967670062559b65b3841c827b06c6e"
+  integrity sha512-SWtZeG+3Mx3PAaKLy/v/GlNN3PLxVacm53RmhayhFVCWvbSazNZn/3xnTUzpVPYMsO7QEqF/NWmC1YUndSoo6Q==
   dependencies:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.10"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.5.1"
-    "@storybook/addons" "6.4.14"
-    "@storybook/core" "6.4.14"
-    "@storybook/core-common" "6.4.14"
+    "@storybook/addons" "6.4.15"
+    "@storybook/core" "6.4.15"
+    "@storybook/core-common" "6.4.15"
     "@storybook/csf" "0.0.2--canary.87bc651.0"
-    "@storybook/node-logger" "6.4.14"
+    "@storybook/node-logger" "6.4.15"
     "@storybook/react-docgen-typescript-plugin" "1.0.2-canary.253f8c1.0"
     "@storybook/semver" "^7.3.2"
-    "@storybook/store" "6.4.14"
+    "@storybook/store" "6.4.15"
     "@types/webpack-env" "^1.16.0"
     babel-plugin-add-react-displayname "^0.0.5"
     babel-plugin-named-asset-import "^0.3.1"
